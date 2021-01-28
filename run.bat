@@ -1,0 +1,2 @@
+node mcbot.js
+pause
