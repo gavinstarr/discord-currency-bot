@@ -1,8 +1,5 @@
 {
     "token":"ODA0NDkzMDcwNzkxOTk5NDg4.YBNIjg.4AAEKOHqkt3j7PxClDKi3Jpz-u8",
     "commandPrefix":".",
-    "ip":"98.146.67.11",
-    "port":25565,
-    "pingInterval":"30",
     "embedColor":"7289DA"
 }
