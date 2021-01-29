@@ -1,2 +1,2 @@
-node mcbot.js
+node bot.js
 pause
